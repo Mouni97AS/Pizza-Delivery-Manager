@@ -44,7 +44,6 @@
             this.orderListDataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.orderListDataGridView.Size = new System.Drawing.Size(846, 454);
             this.orderListDataGridView.TabIndex = 0;
-            this.orderListDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.orderListDataGridView_CellContentClick);
             // 
             // OrderListForm
             // 

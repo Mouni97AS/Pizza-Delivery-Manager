@@ -49,15 +49,5 @@ namespace Pizza_Delivery_Manager
         {
             this.Close();
         }
-
-        private void NewOrderForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cboSize_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

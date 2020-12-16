@@ -45,25 +45,5 @@ namespace Pizza_Delivery_Manager
             DeliveryBoyRatingForm deliveryBoyRatingForm = new DeliveryBoyRatingForm();
             deliveryBoyRatingForm.ShowDialog();
         }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
-
-        private void ratingsToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void toolStripTextBox1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

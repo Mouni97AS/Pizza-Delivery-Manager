@@ -40,17 +40,3 @@ G:\Master Electrical\2nd semester\Development of Software applications\Home work
 G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
 G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
 G:\Master Electrical\2nd semester\Development of Software applications\Home work for Signature\Pizza Delivery Manager_Last version\Ahmad\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe.config
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.exe
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\bin\Debug\Pizza Delivery Manager.pdb
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csprojAssemblyReference.cache
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.DeliveryBoyRatingForm.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.MainForm.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.NewOrderForm.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.OrderListForm.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.PizzaRatingForm.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza_Delivery_Manager.Properties.Resources.resources
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.GenerateResource.cache
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.csproj.CoreCompileInputs.cache
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.exe
-C:\Users\Mounir\Desktop\BME third semester\development of SW embedded system\hoomework\Code\Code\PizzaDeliveryManager\Pizza Delivery Manager\obj\Debug\Pizza Delivery Manager.pdb

@@ -21,10 +21,5 @@ namespace Pizza_Delivery_Manager
         {
             orderListDataGridView.DataSource = OrderService.GetOrders();
         }
-
-        private void orderListDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
     }
 }

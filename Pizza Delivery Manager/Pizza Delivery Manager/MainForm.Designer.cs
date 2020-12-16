@@ -35,8 +35,6 @@
             this.ratingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pizzaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.deliveryBoyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripTextBox1 = new System.Windows.Forms.ToolStripTextBox();
-            this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -73,14 +71,12 @@
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ratingsToolStripMenuItem,
-            this.toolStripTextBox1});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 24);
+            this.ratingsToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(390, 27);
+            this.menuStrip1.Size = new System.Drawing.Size(390, 24);
             this.menuStrip1.TabIndex = 13;
             this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // ratingsToolStripMenuItem
             // 
@@ -88,9 +84,8 @@
             this.pizzaToolStripMenuItem,
             this.deliveryBoyToolStripMenuItem});
             this.ratingsToolStripMenuItem.Name = "ratingsToolStripMenuItem";
-            this.ratingsToolStripMenuItem.Size = new System.Drawing.Size(58, 23);
+            this.ratingsToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.ratingsToolStripMenuItem.Text = "Ratings";
-            this.ratingsToolStripMenuItem.Click += new System.EventHandler(this.ratingsToolStripMenuItem_Click);
             // 
             // pizzaToolStripMenuItem
             // 
@@ -106,21 +101,6 @@
             this.deliveryBoyToolStripMenuItem.Text = "Delivery Boy";
             this.deliveryBoyToolStripMenuItem.Click += new System.EventHandler(this.deliveryBoyToolStripMenuItem_Click);
             // 
-            // toolStripTextBox1
-            // 
-            this.toolStripTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.toolStripTextBox1.Name = "toolStripTextBox1";
-            this.toolStripTextBox1.Size = new System.Drawing.Size(100, 23);
-            this.toolStripTextBox1.Click += new System.EventHandler(this.toolStripTextBox1_Click);
-            // 
-            // menuStrip2
-            // 
-            this.menuStrip2.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Size = new System.Drawing.Size(390, 24);
-            this.menuStrip2.TabIndex = 14;
-            this.menuStrip2.Text = "menuStrip2";
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -130,12 +110,10 @@
             this.Controls.Add(this.btnOrderList);
             this.Controls.Add(this.btnNewOrder);
             this.Controls.Add(this.menuStrip1);
-            this.Controls.Add(this.menuStrip2);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pizza Delivery Manager";
-            this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -152,8 +130,6 @@
         private System.Windows.Forms.ToolStripMenuItem ratingsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pizzaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem deliveryBoyToolStripMenuItem;
-        private System.Windows.Forms.ToolStripTextBox toolStripTextBox1;
-        private System.Windows.Forms.MenuStrip menuStrip2;
     }
 }
 
